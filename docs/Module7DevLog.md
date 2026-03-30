@@ -1,7 +1,7 @@
 ## Name: Jonathan Malave
 ### Module: 7
 
-### Date: [3/23/2026]
+### Date: [3/30/2026]
 
 #### Goals for this Module
 - [x] Finish Design for Physical game
@@ -10,6 +10,7 @@
 
 #### Progress
 - **What I accomplished**:
+  - I integrated the feedback from the professor for my card game.
   - I finshed the designs for the remiaing cards
   - I made all 52 custom cards for my physical prototype
   - I made a rule book explaing the cards and how to play
