@@ -25,3 +25,4 @@
 
 #### Next Steps
 - Continue working but keep in mind the digital treatment and stuff might change
+- Do more playtesting to refine cards and number targets for my game.
