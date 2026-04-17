@@ -5,12 +5,14 @@
 
 #### Goals for this Module
 - [x] Continue working on the digital prototype
+- [X] Choose case study topic
 - [x] Complete the case study
 
 #### Progress
 - **What I accomplished**:
   - I have rounds in my digital game mostly working besides a couple bugs
   - Drawing carsd and getting affected by cards is done
+  - I chose Tom Clancy's Rainbow Six Siege as my cast study topic.
 - **Challenges faced**:
   - making the game playable by more than 2 people dyamically.
 - **Solutions**:
@@ -20,7 +22,7 @@
 - making a card game with turns a little harder than i thought
 
 #### Free Thinking
--Im almost done and I just need to do some playtesting
+- Im almost done and I just need to do some playtesting
 
 #### Next Steps
 - Finish up the remaining features
