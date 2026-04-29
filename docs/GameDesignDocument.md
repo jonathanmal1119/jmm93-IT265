@@ -17,6 +17,8 @@ Players who choose to stand are locked into their total and are no longer affect
 * **Genre:** Strategy / Card Game / Risk Management
 
 ---
+## Demo Video: https://youtu.be/VUxEqRbdqEQ
+---
 
 # Change Log
 
